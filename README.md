@@ -54,7 +54,3 @@ AI Model Output Monitoring
 
 🤝 Contributing
 Pull requests are welcome! If you spot issues or want to improve UX or metrics. Contact me through mail "monishwar26413@gmail.com"
-
-Streamlit
-
-Contributors & Ethical AI supporters
